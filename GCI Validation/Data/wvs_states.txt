@@ -1,0 +1,50 @@
+840201 US: AL Alabama
+840202 US: AR Arkansas
+840203 US: AZ Arizona
+840204 US: CA California
+840205 US: CO Colorado
+840206 US: CT Connecticut
+840207 US: DC District of Columbia
+840208 US: DE Delaware
+840209 US: FL Florida
+840210 US: GA Georgia
+840211 US: HI Hawaii
+840212 US: IA Iowa
+840213 US: ID Idaho
+840214 US: IL Illinois
+840215 US: IN Indiana
+840216 US: KS Kansas
+840217 US: KY Kentucky
+840218 US: LA Louisiana
+840219 US: MA Massachusetts
+840220 US: MD Maryland
+840221 US: ME Maine
+840222 US: MI Michigan
+840223 US: MN Minnesota
+840224 US: MO Missouri
+840225 US: MS Mississippi
+840226 US: MT Montana
+840227 US: NC North Carolina
+840228 US: ND North Dakota
+840229 US: NE Nebraska
+840230 US: NH New Hampshire
+840231 US: NJ New Jersey
+840232 US: NM New Mexico
+840233 US: NV Nevada
+840234 US: NY New York
+840235 US: OH Ohio
+840236 US: OK Oklahoma
+840237 US: OR Oregon
+840238 US: PA Pennsylvania
+840239 US: RI Rhode Island
+840240 US: SC South Carolina
+840241 US: SD South Dakota
+840242 US: TN Tennessee
+840243 US: TX Texas
+840244 US: UT Utah
+840245 US: VA Virginia
+840246 US: VT Vermont
+840247 US: WA Washington
+840248 US: WI Wisconsin
+840249 US: WV West Virginia
+840250 US: WY Wyoming

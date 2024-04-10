@@ -1,0 +1,363 @@
+8400001 US: AL Decatur
+8400002 US: AL Huntsville
+8400003 US: AL Mobile
+8400004 US: AL Montgomery
+8400005 US: AL No incorporated place
+8400006 US: AL Population less than 50,000
+8400007 US: AR No incorporated place
+8400008 US: AR Population less than 50,000
+8400009 US: AZ Chandler
+8400010 US: AZ Gilbert
+8400011 US: AZ Glendale
+8400012 US: AZ Lake Havasu City
+8400013 US: AZ Mesa
+8400014 US: AZ No incorporated place
+8400015 US: AZ Phoenix
+8400016 US: AZ Population less than 50,000
+8400017 US: AZ Surprise
+8400018 US: AZ Tempe
+8400019 US: AZ Tucson
+8400020 US: CA Anaheim
+8400021 US: CA Apple Valley
+8400022 US: CA Bellflower
+8400023 US: CA Berkeley
+8400024 US: CA Buena Park
+8400025 US: CA Carlsbad
+8400026 US: CA Cathedral City
+8400027 US: CA Chico
+8400028 US: CA Citrus Heights
+8400029 US: CA Clovis
+8400030 US: CA Colton
+8400031 US: CA Concord
+8400032 US: CA Corona
+8400033 US: CA Costa Mesa
+8400034 US: CA Davis
+8400035 US: CA Escondido
+8400036 US: CA Fresno
+8400037 US: CA Glendale
+8400038 US: CA Hawthorne
+8400039 US: CA Huntington Beach
+8400040 US: CA Huntington Park
+8400041 US: CA Inglewood
+8400042 US: CA Irvine
+8400043 US: CA Laguna Niguel
+8400044 US: CA Lake Forest
+8400045 US: CA Livermore
+8400046 US: CA Long Beach
+8400047 US: CA Los Angeles
+8400048 US: CA Milpitas
+8400049 US: CA Modesto
+8400050 US: CA Moreno Valley
+8400051 US: CA Murrieta
+8400052 US: CA No incorporated place
+8400053 US: CA Norwalk
+8400054 US: CA Oakland
+8400055 US: CA Orange
+8400056 US: CA Oxnard
+8400057 US: CA Pasadena
+8400058 US: CA Placentia
+8400059 US: CA Pomona
+8400060 US: CA Population less than 50,000
+8400061 US: CA Rancho Cordova
+8400062 US: CA Rancho Cucamonga
+8400063 US: CA Redlands
+8400064 US: CA Richmond
+8400065 US: CA Riverside
+8400066 US: CA Rocklin
+8400067 US: CA Roseville
+8400068 US: CA Sacramento
+8400069 US: CA San Diego
+8400070 US: CA San Francisco
+8400071 US: CA San Jose
+8400072 US: CA San Marcos
+8400073 US: CA San Mateo
+8400074 US: CA San Rafael
+8400075 US: CA Santa Rosa
+8400076 US: CA Santee
+8400077 US: CA Simi Valley
+8400078 US: CA Thousand Oaks
+8400079 US: CA Torrance
+8400080 US: CA Upland
+8400081 US: CA Vallejo
+8400082 US: CA Victorville
+8400083 US: CA Westminster
+8400084 US: CA Yuba City
+8400085 US: CO Aurora
+8400086 US: CO Boulder
+8400087 US: CO Broomfield
+8400088 US: CO Colorado Springs
+8400089 US: CO Denver
+8400090 US: CO Greeley
+8400091 US: CO No incorporated place
+8400092 US: CO Population less than 50,000
+8400093 US: CO Thornton
+8400094 US: CT Bridgeport
+8400095 US: CT Bristol
+8400096 US: CT Hartford
+8400097 US: CT New Haven
+8400098 US: CT No incorporated place
+8400099 US: CT Population less than 50,000
+8400100 US: CT Stamford
+8400101 US: CT West Haven
+8400102 US: DC Washington
+8400103 US: DE No incorporated place
+8400104 US: DE Population less than 50,000
+8400105 US: FL Boca Raton
+8400106 US: FL Bonita Springs
+8400107 US: FL Cape Coral
+8400109 US: FL Clearwater
+8400110 US: FL Coconut Creek
+8400111 US: FL Coral Springs
+8400112 US: FL Davie
+8400113 US: FL Delray Beach
+8400114 US: FL Deltona
+8400115 US: FL Fort Lauderdale
+8400116 US: FL Jacksonville
+8400117 US: FL Jupiter
+8400118 US: FL Lakeland
+8400119 US: FL Lauderhill
+8400120 US: FL Melbourne
+8400121 US: FL Miami
+8400122 US: FL Miami Gardens
+8400123 US: FL Miramar
+8400124 US: FL No incorporated place
+8400125 US: FL Orlando
+8400126 US: FL Palm Coast
+8400127 US: FL Pensacola
+8400128 US: FL Population less than 50,000
+8400129 US: FL Port Orange
+8400130 US: FL Port St. Lucie
+8400131 US: FL St. Petersburg
+8400132 US: FL Tamarac
+8400133 US: FL Tampa
+8400134 US: GA Atlanta
+8400135 US: GA Johns Creek
+8400136 US: GA No incorporated place
+8400137 US: GA Population less than 50,000
+8400138 US: GA Warner Robins
+8400139 US: HI No incorporated place
+8400140 US: IA Cedar Rapids
+8400141 US: IA No incorporated place
+8400142 US: IA Population less than 50,000
+8400143 US: IA West Des Moines
+8400144 US: ID Pocatello
+8400145 US: ID Population less than 50,000
+8400146 US: IL Aurora
+8400147 US: IL Berwyn
+8400148 US: CO Centennial
+8400149 US: IL Chicago
+8400150 US: IL Evanston
+8400151 US: IL Naperville
+8400152 US: IL No incorporated place
+8400153 US: IL Population less than 50,000
+8400154 US: IL Rockford
+8400155 US: IL Wheaton
+8400156 US: IN Carmel
+8400157 US: IN Elkhart
+8400158 US: IN Gary
+8400159 US: IN Indianapolis city (balance)
+8400160 US: IN No incorporated place
+8400161 US: IN Population less than 50,000
+8400162 US: IN South Bend
+8400163 US: KS Kansas City
+8400164 US: KS No incorporated place
+8400165 US: KS Olathe
+8400166 US: KS Overland Park
+8400167 US: KS Population less than 50,000
+8400168 US: KS Topeka
+8400169 US: KY Lexington-Fayette
+8400170 US: KY Louisville
+8400171 US: KY Louisville/Jefferson County metro government (balance
+8400172 US: KY No incorporated place
+8400173 US: KY Population less than 50,000
+8400174 US: LA Baton Rouge
+8400175 US: LA Lafayette
+8400176 US: LA New Orleans
+8400177 US: LA No incorporated place
+8400178 US: LA Population less than 50,000
+8400179 US: MA Boston
+8400180 US: MA Cambridge
+8400181 US: MA Fall River
+8400182 US: MA Lowell
+8400183 US: MA Lynn
+8400184 US: MA New Bedford
+8400185 US: MA No incorporated place
+8400186 US: MA Population less than 50,000
+8400187 US: MA Quincy
+8400188 US: MA Springfield
+8400189 US: MA Worcester
+8400190 US: MD Baltimore
+8400191 US: MD No incorporated place
+8400192 US: MD Population less than 50,000
+8400193 US: MD Rockville
+8400194 US: ME No incorporated place
+8400195 US: ME Population less than 50,000
+8400196 US: ME Portland
+8400197 US: MI Ann Arbor
+8400198 US: MI Detroit
+8400199 US: MI Farmington Hills
+8400200 US: MI Lansing
+8400201 US: MI No incorporated place
+8400202 US: MI Population less than 50,000
+8400203 US: MI Taylor
+8400204 US: MI Westland
+8400205 US: MN Coon Rapids
+8400206 US: MN Eagan
+8400207 US: MN Lakeville
+8400208 US: MN Maple Grove
+8400209 US: MN Minneapolis
+8400210 US: MN No incorporated place
+8400211 US: MN Population less than 50,000
+8400212 US: MN St. Cloud
+8400213 US: MN St. Paul
+8400214 US: MO Columbia
+8400215 US: MO Independence
+8400216 US: MO Kansas City
+8400217 US: MO No incorporated place
+8400218 US: MO Population less than 50,000
+8400219 US: MO St. Louis
+8400220 US: MS No incorporated place
+8400221 US: MS Population less than 50,000
+8400222 US: MT No incorporated place
+8400223 US: MT Population less than 50,000
+8400224 US: NC Burlington
+8400225 US: NC Charlotte
+8400226 US: NC Concord
+8400227 US: NC Durham
+8400228 US: NC Greensboro
+8400229 US: NC High Point
+8400230 US: VA Newport News
+8400231 US: NC No incorporated place
+8400232 US: NC Population less than 50,000
+8400233 US: NC Raleigh
+8400234 US: NC Rocky Mount
+8400235 US: NC Wilmington
+8400236 US: NC Winston-Salem
+8400237 US: ND No incorporated place
+8400238 US: IA Ames
+8400239 US: NE Lincoln
+8400240 US: NE No incorporated place
+8400241 US: NE Omaha
+8400242 US: NE Population less than 50,000
+8400243 US: NH Manchester
+8400244 US: NH No incorporated place
+8400245 US: NH Population less than 50,000
+8400246 US: NJ Clifton
+8400247 US: NJ East Orange
+8400248 US: NJ Elizabeth
+8400249 US: NJ Jersey City
+8400250 US: NJ New Brunswick
+8400251 US: NJ No incorporated place
+8400252 US: NJ Population less than 50,000
+8400253 US: NJ Vineland
+8400254 US: NM Albuquerque
+8400255 US: NM No incorporated place
+8400256 US: NM Rio Rancho
+8400257 US: NV Carson City
+8400258 US: NV Henderson
+8400259 US: NV Las Vegas
+8400260 US: NV No incorporated place
+8400261 US: NV North Las Vegas
+8400262 US: NY Albany
+8400263 US: NY Buffalo
+8400264 US: NY New York
+8400265 US: NY No incorporated place
+8400266 US: NY Population less than 50,000
+8400267 US: NY Schenectady
+8400268 US: NY White Plains
+8400269 US: NY Yonkers
+8400270 US: OH Akron
+8400271 US: OH Cincinnati
+8400272 US: OH Cleveland
+8400273 US: OH Columbus
+8400274 US: OH Dayton
+8400275 US: OH Elyria
+8400276 US: OH Hamilton
+8400277 US: OH Kettering
+8400278 US: OH No incorporated place
+8400279 US: OH Population less than 50,000
+8400280 US: OH Springfield
+8400281 US: OH Youngstown
+8400282 US: OK Broken Arrow
+8400283 US: OK Midwest City
+8400284 US: OK Moore
+8400285 US: OK No incorporated place
+8400286 US: OK Norman
+8400287 US: OK Population less than 50,000
+8400288 US: OK Tulsa
+8400289 US: OR Beaverton
+8400290 US: OR Bend
+8400291 US: OR Gresham
+8400292 US: OR No incorporated place
+8400293 US: OR Population less than 50,000
+8400294 US: OR Portland
+8400295 US: PA No incorporated place
+8400296 US: PA Philadelphia
+8400297 US: PA Pittsburgh
+8400298 US: PA Population less than 50,000
+8400299 US: RI No incorporated place
+8400300 US: RI Pawtucket
+8400301 US: SC Columbia
+8400302 US: SC No incorporated place
+8400303 US: SC Rock Hill
+8400304 US: SD No incorporated place
+8400305 US: SD Population less than 50,000
+8400306 US: SD Sioux Falls
+8400307 US: TN Franklin
+8400308 US: TN Johnson City
+8400309 US: TN Knoxville
+8400310 US: TN Memphis
+8400311 US: TN Murfreesboro
+8400312 US: TN Nashville-Davidson metropolitan government (balance)
+8400313 US: TN No incorporated place
+8400314 US: TN Population less than 50,000
+8400315 US: TX Arlington
+8400316 US: TX Austin
+8400317 US: TX Baytown
+8400318 US: TX Beaumont
+8400319 US: TX Carrollton
+8400320 US: TX Dallas
+8400321 US: TX Flower Mound
+8400322 US: TX Fort Worth
+8400323 US: TX Frisco
+8400324 US: TX Houston
+8400325 US: TX Irving
+8400326 US: TX League City
+8400327 US: TX Midland
+8400328 US: TX Missouri City
+8400329 US: TX New Braunfels
+8400330 US: TX No incorporated place
+8400331 US: TX Odessa
+8400332 US: TX Plano
+8400333 US: TX Population less than 50,000
+8400334 US: TX Port Arthur
+8400335 US: TX Richardson
+8400336 US: TX San Antonio
+8400337 US: UT No incorporated place
+8400338 US: UT Population less than 50,000
+8400339 US: UT Salt Lake City
+8400340 US: UT Sandy
+8400341 US: VA Chesapeake
+8400342 US: VA Hampton
+8400343 US: VA No incorporated place
+8400344 US: VA Norfolk
+8400345 US: VA Population less than 50,000
+8400346 US: VA Richmond
+8400347 US: VA Suffolk
+8400348 US: VA Virginia Beach
+8400349 US: VT No incorporated place
+8400350 US: WA Auburn
+8400351 US: WA Everett
+8400352 US: WA Kent
+8400353 US: WA No incorporated place
+8400354 US: WA Population less than 50,000
+8400355 US: WA Seattle
+8400356 US: WA Spokane
+8400357 US: WA Tacoma
+8400358 US: WA Vancouver
+8400359 US: WI Milwaukee
+8400360 US: WI No incorporated place
+8400361 US: WI Population less than 50,000
+8400362 US: WV No incorporated place
+8400363 US: WV Population less than 50,000
+8400364 US: WY Casper
